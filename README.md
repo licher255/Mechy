@@ -1,7 +1,7 @@
 # Rust rocket computational engineering model
 
 Mechy is an MIT licensed, original Rust computational engineering model
-project. It is not a Noyron port. The first crate contains typed SI quantities
+project. The first crate contains typed SI quantities
 and elementary mechanics equations. The broader research workspace develops
 the geometry kernel and an English HTML handbook alongside this project.
 
