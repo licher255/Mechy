@@ -2,7 +2,8 @@
 name = "rust-rocket-cem"
 version = "0.1.0"
 edition = "2024"
-license = "MIT"
+# The public grant is AGPL; commercial terms require a separate signed agreement.
+license = "AGPL-3.0-only"
 
 [dependencies]
 

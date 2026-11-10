@@ -6,6 +6,11 @@ research objective is parameter-driven rocket engine design, but no current
 output is a validated engine design. Noyron RP is proprietary and is a
 conceptual comparator, not source code used here.
 
+The original core is offered under AGPL-3.0-only, with commercial licensing
+available by separate written agreement. The commercial model centres on annual
+maintenance, deployment and engineering verification services. See
+[licensing](../LICENSING.md) and [commercial services](../COMMERCIAL.md).
+
 ## Intended data flow
 
 ```text
